@@ -9,6 +9,7 @@ This repository contains a collection of small HTML practice tasks to help me sh
 | Task No. | Title        | Description                           |
 |----------|--------------|---------------------------------------|
 | 1 | Task_1   | Practice of headings, paragraphs, etc.|
+| 2 | Task 2 | created 2nd project with tr and ti tags |
 | ... |.....| more to come    |
 
 ## 🔧 How to Use
