@@ -26,7 +26,7 @@ This helps me:
 -->>Keep track of progress
 
 📌 Note
-This repository is for educational and practice purposes only.
+This repository is only for practice purpuse and my daily progress proof.
 
 ---
 
