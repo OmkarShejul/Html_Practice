@@ -31,5 +31,3 @@ This helps me:
 This repository is only for practice purpuse and my daily progress proof.
 
 ---
-
-Let me know if you'd like me to include CSS or JavaScript folders later as you progress. Want me to generate a sample task HTML file too?
