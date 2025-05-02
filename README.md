@@ -12,6 +12,7 @@ This repository contains a collection of small HTML practice tasks to help me sh
 | 2 | Task 2 | This is my lab exercise 1 problem 2 tr and ti tags |
 | 3 | task 3 | This is my lab exercise 1 problem 3. |
 | 4 | task 4 | This is my lab exercise 2 problem 1 |
+| | | |
 | ... |.....| more to come    |
 
 ## 🔧 How to Use
