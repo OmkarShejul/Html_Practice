@@ -8,9 +8,11 @@ This repository contains a collection of small HTML practice tasks to help me sh
 
 | Task No. | Title        | Description                           |
 |----------|--------------|---------------------------------------|
-| 1 | Task_1   | Practice of headings, paragraphs, etc.|
-| 2 | Task 2 | created 2nd project with tr and ti tags |
-|  3 | task 3 | uploaded my third task assign by my mentor.|
+| 1 | Task_1 | This is my lab exercise 1 problem 1 of headings, paragraphs, etc.|
+| 2 | Task 2 | This is my lab exercise 1 problem 2 tr and ti tags |
+| 3 | task 3 | This is my lab exercise 1 problem 3. |
+| 4 | task 4 | This is my lab exercise 2 problem 1 |
+| 5 | Task 5 | This is my lab exercise 2 problem 2. |
 | ... |.....| more to come    |
 
 ## 🔧 How to Use
@@ -30,5 +32,3 @@ This helps me:
 This repository is only for practice purpuse and my daily progress proof.
 
 ---
-
-Let me know if you'd like me to include CSS or JavaScript folders later as you progress. Want me to generate a sample task HTML file too?
