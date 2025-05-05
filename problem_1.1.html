@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Details Form</title>
+</head>
+<body align="center">
+    <form align="left">
+        <fieldset style="width: 300px;">
+            <big> <b>Student Details</b></big><br><br>
+            
+            <label for="fname"><b>First Name:</b></label><br>
+            <input type="text"  name="fname"><br><br>
+            
+            <label for="lname"><b>Last Name:</b></label><br>
+            <input type="text"  name="lname"><br><br>
+            
+            <label for="email"><b>Email:</b></label><br>
+            <input type="email" name="email"><br><br>
+            
+            <label><b>Gender:</b></label><br>
+            <input type="radio" id="male" name="gender" value="Male">
+            <label for="male">Male</label>
+            <input type="radio" id="female" name="gender" value="Female">
+            <label for="female">Female</label>
+            <input type="radio" id="other" name="gender" value="Other">
+            <label for="other">Other</label><br><br>
+            
+            <label for="age"><b>Age:</b></label><br>
+            <input type="number" id="age" name="age" min="0"><br><br>
+            
+            <label for="joining"><b>Joining Date:</b></label><br>
+            <input type="date" id="joining" name="joining"><br><br>
+            
+            <label><b>Course Completed:</b></label><br>
+            <input type="checkbox" id="cprog" name="course" value="C Programming">
+            <label for="cprog">C Programming</label>
+            <input type="checkbox" id="sql" name="course" value="SQL">
+            <label for="sql">SQL</label>
+            <input type="checkbox" id="mongo" name="course" value="MongoDB">
+            <label for="mongo">MongoDB</label><br><br>
+            
+            <label for="address"><b>Address:</b></label><br>
+            <textarea id="address" name="address" rows="2" cols="30"></textarea><br><br>
+            
+            <label for="branch"><b>Branch:</b></label><br>
+            <select id="branch" name="branch">
+                <option>Select Option</option>
+                <option>Computer Science</option>
+                <option>Information Technology</option>
+                <option>Electronics</option>
+                <option>Mechanical</option>
+            </select><br><br>
+            
+            <input type="reset" value="Reset">
+            <input type="submit" value="Submit">
+        </fieldset>
+    </form>
+</body>
+</html>
