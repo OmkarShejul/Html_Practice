@@ -13,7 +13,8 @@ This repository contains a collection of small HTML practice tasks to help me sh
 | 3 | task 3 | This is my lab exercise 1 problem 3. |
 | 4 | task 4 | This is my lab exercise 2 problem 1 |
 | 5 | Task 5 | This is my lab exercise 2 problem 2. |
-| 6 | Task 6 | This is my lab exercise 3 problem 1.1.|                       |
+| 6 | Task 6 | This is my lab exercise 3 problem 1.1.|                 
+| 7 | Task 7 | This is my lab exercise 3 problem 1.2 |
 | ... |.....| more to come    |
 
 ## 🔧 How to Use
