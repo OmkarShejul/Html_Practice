@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Details Form</title>
+</head>
+<body>
+    <form>
+        <table border="10">
+            <tr>
+                <th colspan="2">Student Details</th>
+            </tr>
+            <tr>
+                <td>First Name:</td>
+                <td><input type="text" name="fname"></td>
+            </tr>
+            <tr>
+                <td>Last Name:</td>
+                <td><input type="text" name="lname"></td>
+            </tr>
+            <tr>
+                <td>Email:</td>
+                <td><input type="email" name="email"></td>
+            </tr>
+            <tr>
+                <td>Gender:</td>
+                <td>
+                    <input type="radio" name="gender" value="Male"> Male
+                    <input type="radio" name="gender" value="Female"> Female
+                    <input type="radio" name="gender" value="Other"> Other
+                </td>
+            </tr>
+            <tr>
+                <td>Age:</td>
+                <td><input type="number" name="age"></td>
+            </tr>
+            <tr>
+                <td>Joining Date:</td>
+                <td><input type="date" name="joining"></td>
+            </tr>
+            <tr>
+                <td>Course Completed:</td>
+                <td>
+                    <input type="checkbox" name="course" value="C Programming"> C Programming
+                    <input type="checkbox" name="course" value="SQL"> SQL<br>
+                    <input type="checkbox" name="course" value="MongoDB"> MongoDB
+                    <input type="checkbox" name="course" value="RWD"> RWD
+                    <input type="checkbox" name="course" value="Core Java"> Core Java
+                </td>
+            </tr>
+            <tr>
+                <td>Address:</td>
+                <td><textarea name="address" rows="2" cols="30"></textarea></td>
+            </tr>
+            <tr>
+                <td>Branch:</td>
+                <td>
+                    <select name="branch">
+                        <option>Select Option</option>
+                        <option>Computer Science</option>
+                        <option>Information Technology</option>
+                        <option>Electronics</option>
+                        <option>Mechanical</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center">
+                    <input type="reset" value="Reset">
+                    <input type="submit" value="Submit">
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>
